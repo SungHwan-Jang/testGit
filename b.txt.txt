@@ -1,2 +1,5 @@
+<<<<<<< HEAD
 2222
 t2
+=======
+>>>>>>> parent of 8a162f4... Update b.txt.txt
