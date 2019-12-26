@@ -1,2 +1,6 @@
 1.hello this is first git
+<<<<<<< HEAD
 t2
+=======
+this is third git.
+>>>>>>> parent of a1d9e28... 1
